@@ -1,4 +1,4 @@
-module github.com/euank/gosplittest
+module github.com/euank/gotestsplit
 
 go 1.22.5
 
